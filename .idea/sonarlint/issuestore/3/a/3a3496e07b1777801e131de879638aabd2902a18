@@ -1,0 +1,16 @@
+
+k
+java:S1192"ODefine a constant instead of duplicating this literal "SELECT * FROM " 4 times.(³ÕÁm8ˆñÅğÅ1
+i
+java:S1192$"LDefine a constant instead of duplicating this literal " x WHERE x." 3 times.(èØğî8À‚ÅğÅ1
+L
+java:S1066O"/Merge this if statement with the enclosing one.(†íÂß8À‚ÅğÅ1
+w
+java:S1104"UMake tableName a static final constant or non-public and provide accessors if needed.(Óë•¢ûÿÿÿÿ8š›İ˜Å1
+8
+java:S2326"T is not used in the class.(äßÕ8¨À†™Å1
+š
+java:S1130&"}Remove the declaration of thrown exception 'it.alfasoft.daogenerico.DaoException', as it cannot be thrown from method's body.(³“ÅË8ßò·šÆ1
+]	java:S125M"<This block of commented-out lines of code should be removed.(¹ÌÈ¿ùÿÿÿÿ8¸ƒÅğÅ1
+T
+java:S1135M"2Complete the task associated to this TODO comment.(¹ÌÈ¿ùÿÿÿÿ8¸ƒÅğÅ1
