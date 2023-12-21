@@ -10,7 +10,7 @@ java:S1104"UMake tableName a static final constant or non-public and provide a
 8
 java:S2326"T is not used in the class.(‰ﬂ’é8®¿Üô≈1
 ö
-java:S1130&"}Remove the declaration of thrown exception 'it.alfasoft.daogenerico.DaoException', as it cannot be thrown from method's body.(≥ì≈À8ﬂÚ∑ö∆1
+java:S1130&"}Remove the declaration of thrown exception 'it.alfasoft.daogenerico.DaoException', as it cannot be thrown from method's body.(≥ì≈À8Ô˚…¿»1
 ]	java:S125M"<This block of commented-out lines of code should be removed.(πÃ»ø˘ˇˇˇˇ8∏É≈≈1
 T
 java:S1135M"2Complete the task associated to this TODO comment.(πÃ»ø˘ˇˇˇˇ8∏É≈≈1
